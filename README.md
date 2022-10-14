@@ -4,7 +4,7 @@ GitHub repository for vsc users that want to start computing on new wICE cluster
 
 ## What is it?
 
-1. [`Slurm session.pptx`]Slurm session.pptx) - info about new scheduler Sluem,
+1. [`Slurm session.pptx`](Slurm session.pptx) - info about new scheduler Sluem,
 
 1. [`lustre_filesystem_parallel_storage.pptx`](lustre_filesystem_parallel_storage.pptx) - info about the new scratch/staging Luster filesystem
 
