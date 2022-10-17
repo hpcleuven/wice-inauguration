@@ -10,7 +10,7 @@ GitHub repository for vsc users that want to start computing on new wICE cluster
 
 1. [`lustre_filesystem_parallel_storage.pptx`](lustre_filesystem_parallel_storage.pptx) - info about the new scratch/staging Luster filesystem
 
-1. [`next steps 2023.pdf`]("next steps 2023.pdf") - info about new scheduler Slurm,
+1. [`next_steps_2023.pdf`](next_steps_2023.pdf") - future of wICE,
 
 1. [`openondemand.pptx`](openondemand.pptx) - info about new way of submitting jobs through tthe browser,
 
